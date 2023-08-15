@@ -1,11 +1,7 @@
 #include <stdio.h>
-
 /**
  * main - Entry point of the program
- *
- * This function prints the lowercase alphabet, followed by the uppercase alphabet,
- * and then a new line. It uses the putchar function to achieve this.
- *
+ * This function prints the lowercase alphabet, followed by the uppercase alphabet
  * Return: Always 0 (Success)
  */
 int main(void)
